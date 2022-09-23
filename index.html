@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Linovels</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.5.3/dist/css/swiffy-slider.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="source/css/sitio.css">
+</head>
+  <body>
+    <nav id="menu" class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+      <div class="container-fluid">
+        <img src="source/img/fondoPNG.png" alt="Logo" width="100" height="50" class="d-inline-block align-text-top">          
+        <div><a class="navbar-brand" href="#">LINOVELS</a></div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a id="logo" class="nav-link text-center">
+                <img src="source/img/loginPNG.png" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">          
+                <b>Login | Registro</b></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="novelas/listado.html">Novelas</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="cuentos/listado.html">Cuentos cortos</a>
+            </li>
+            <!--SUBMENU DESPLEGABLE
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Directorio
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Finalizadas</a></li>
+                <li><a class="dropdown-item" href="#">En marcha</a></li>
+              </ul>
+            </li>-->
+            <li class="nav-item">
+              <a class="nav-link" href="proximos/listado.html">Próximamente</a>
+            </li>
+            
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+    <main class="grid">
+      <!--Muestra las actualizaciones de capitulos del sitio-->
+      <section id="actualizaciones">
+        <div id="title"> Actualizaciones </div>
+        <div class="container swiffy-slider slider-item-ratio slider-nav-animation slider-nav-animation-fadein slider-item-first-visible" id="swiffy-animation">
+          <ul class="slider-container" id="container1">
+              <li id="slide1" class="slide slide-visible"><img src="source/img/actualizaciones/saitamaLeyendo.png" alt="..." loading="lazy"></li>
+              <li id="slide2" class="slide"><img src="source/img/actualizaciones/saimataOK.png" alt="..." loading="lazy"></li>
+              <li id="slide3" class="slide"><img src="source/img/actualizaciones/loginPNG.png" alt="..." loading="lazy"></li>
+          </ul>
+          
+          <button type="button" class="slider-nav" aria-label="Go to previous"></button>
+          <button type="button" class="slider-nav slider-nav-next" aria-label="Go to next"></button>
+      
+          <div class="slider-indicators">
+              <button id="boton" aria-label="Go to slide" class="active"></button>
+              <button id="boton" aria-label="Go to slide" class=""></button>
+              <button id="boton" aria-label="Go to slide" class=""></button>
+          </div>
+        </div>
+      </section>
+
+      <!--Muestra un listado de novelas subidas en el sitio web-->
+      <section id="actualizados">
+        <div id="title" class="title2"><b><h1>Actualizados</h1></b></div>
+        <div id="lista" class="container">
+          <div class="row g-2">
+            <div id="contenido" class="col">
+              <a href="novelas/overlord/info.html">
+                <div class="imagen">
+                  <img src="novelas/overlord/img/Overlord-1-2.jpg" class="card-img-top" alt="Overlord volumen I">
+                </div>
+              </a>
+              <div class="detalles">
+                <h5>Overlord Volumen I</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <a href="novelas/overlord/info.html">
+                <div class="imagen">
+                  <img src="novelas/overlord/img/Overlord-2-2.jpg" class="card-img-top" alt="Overlord volumen II">
+                </div>
+              </a>
+              <div class="detalles">
+                <h5>Overlord Volumen II</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-3-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen III</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-4-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen IV</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-5-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen V</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-6-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen VI</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-7-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen VII</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-8-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen VIII</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-9-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen IX</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-10-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen X</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-11-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen XI</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-12-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen XII</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-13-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen XIII</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+            <div id="contenido" class="col">
+              <div class="imagen">
+                <img src="novelas/overlord/img/Overlord-14-2.jpg" class="card-img-top" alt="Overlor volumen I">
+              </div>
+              <div class="detalles">
+                <h5>Overlord Volumen XIV</h5>
+                <p class="card-text">
+                  El primer capitulo de Overlord se ha actualizado.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.5.3/dist/js/swiffy-slider.min.js" crossorigin="anonymous" defer></script>
+  </body>
+</html>

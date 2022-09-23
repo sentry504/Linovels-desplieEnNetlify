@@ -1,0 +1,4 @@
+crear packages .json 
+    npm init -y
+
+descargar dependencias de node para trabajar con base de datos de SQL Server

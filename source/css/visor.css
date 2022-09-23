@@ -1,0 +1,23 @@
+#nav-capitulo{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#boton{
+    background: rgb(2,120,177);
+    background: linear-gradient(90deg, rgba(2,120,177,1) 0%, rgba(103,188,228,1) 100%);
+    padding: 10px;
+    width: fit-content;
+    border-radius: 10%;
+}
+
+iframe{
+    width: 100%;
+    height:100vh;
+}
+
+.incrustado{
+  object-fit: cover;
+  width:100%;
+  height:100%;
+}
