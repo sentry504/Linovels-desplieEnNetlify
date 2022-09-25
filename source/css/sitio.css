@@ -25,7 +25,6 @@ a:visited{
 #title{
     text-align: center;
     font-size: xx-large;
-    border-bottom: 3px solid rgb(143, 74, 74);
 }
 
 .title2{
@@ -64,7 +63,8 @@ a:visited{
 }
 
 .card-img-top:hover{
-    border-radius: 40px 40px 10px 10px;
+    border-radius: 20px;
+
 }
 
 .detalles{
@@ -76,7 +76,7 @@ a:visited{
 }
 
 #contenido:hover{
-    color: rgba(160, 184, 151, 0.945);
+    color: rgba(51, 117, 27, 0.945);
 }
 
 

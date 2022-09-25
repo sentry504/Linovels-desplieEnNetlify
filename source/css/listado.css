@@ -8,3 +8,7 @@
     color: rgb(43, 39, 39);
     font-weight: 900;
 }
+
+header, .logo2{
+    padding: 1.5rem;
+}

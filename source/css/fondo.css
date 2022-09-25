@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+  }
+  .sect {
+    width: 100%;
+    min-height: 500px;
+  }
+
+  #sect1{
+    height: 30vh;
+  }
+  #sect1,
+  #sect3 {
+    background-color: #33333344;
+    color: #fff;
+  }
+  #sect2 {
+    background-color: #fff;
+    color: #333;
+  }
+  video {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height:100%;
+    z-index: -2;
+  }
+
+  #title{
+    position: sticky;
+    height: min-content;
+    left: 0;
+    top: 0;
+    z-index: -1;
+  }
+  h1 {
+    margin: 0;
+    padding-top: 3rem;
+    padding-left: 2rem;
+  }
+  h2 {
+    margin: 0;
+    padding-top: 3rem;
+    padding-left: 2rem;
+  }
+  
