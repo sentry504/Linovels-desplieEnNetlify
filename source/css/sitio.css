@@ -9,6 +9,10 @@ main{
     color: #fff;
 }
 
+aside{
+    background: linear-gradient(90deg, rgb(40, 40, 48) 0%, rgb(43, 43, 58) 45%, rgb(41, 43, 48) 100%);
+}
+
 /*Normalizar links*/
 a{
     color: #fff;

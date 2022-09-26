@@ -21,3 +21,7 @@
 article{
     padding-bottom: 2%;
 }
+
+aside{
+    border-left: 5px solid rgb(143, 74, 74);
+}
