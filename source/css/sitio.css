@@ -5,7 +5,7 @@
 
 main{
     margin-top: 66px;
-    background-color: rgb(52, 55, 56);
+    background: linear-gradient(90deg, rgb(40, 40, 48) 0%, rgb(43, 43, 58) 45%, rgb(41, 43, 48) 100%);
     color: #fff;
 }
 
@@ -40,6 +40,7 @@ a:visited{
     width: auto;
     height: 100%;
     max-height: 500px;
+    overflow-y: hidden;
 }
 
 /*Seccion actualizados*/

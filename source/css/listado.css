@@ -1,7 +1,7 @@
 #title{
     text-align: center;
     font-size: larger;
-    border-bottom: 3px solid rgb(143, 74, 74);
+    border-bottom: 5px solid rgb(143, 74, 74);
     background-image: url('../img/Novelas-Ligeras-Japonesas.jpg');
     background-size:cover;
     padding: 100px 0px 100px 0px;
@@ -11,4 +11,7 @@
 
 header, .logo2{
     padding: 1.5rem;
+    background: rgb(30,31,56);
+    background: linear-gradient(90deg, rgba(30,31,56,1) 0%, rgba(23,23,116,1) 45%, rgba(23,95,110,1) 100%);
 }
+

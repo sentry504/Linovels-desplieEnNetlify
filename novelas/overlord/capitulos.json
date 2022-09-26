@@ -1,7 +1,6 @@
 {
     "activo" : 0,
     "capitulos":[
-        {"id": 0, "capitulo" : "previo.html"},
-        {"id": 1, "capitulo" : "overlord-vol1-prologo.html"},
-        {"id": 2, "capitulo" : "siguiente.html"}]
+        {"id": 0, "capitulo" : "/novelas/overlord/capitulo/volumenI/overlord-vol1-prologo.html"},
+        {"id": 1, "capitulo" : "/novelas/overlord/capitulo/volumenI/overlord-vol1-capitulo1_parte1.html"}]
 }
