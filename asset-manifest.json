@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.94a19e5a.css",
-    "main.js": "/static/js/main.6cef3c47.js",
+    "main.css": "/static/css/main.04a81f7e.css",
+    "main.js": "/static/js/main.953373b6.js",
     "static/media/Overlord-Volumen-2.pdf": "/static/media/Overlord-Volumen-2.595760412d6ff5869f93.pdf",
     "static/media/Overlord-Volumen-1.pdf": "/static/media/Overlord-Volumen-1.9e6791d3d09a73af7634.pdf",
-    "static/media/artistico-2.png": "/static/media/artistico-2.9d32ed32ab147cb48647.png",
-    "static/media/himouto-1.png": "/static/media/himouto-1.b94b98ca25a40f5b6464.png",
+    "static/media/banner-cuentos.png": "/static/media/banner-cuentos.2e3424af8bfbfb0bcf89.png",
     "static/media/artistico-1.png": "/static/media/artistico-1.02a1d06620c86992d119.png",
-    "static/media/himouto-2.png": "/static/media/himouto-2.77d23e1ed5af1779222f.png",
+    "static/media/banner-light-novels.jpg": "/static/media/banner-light-novels.4a5ead6dc57030a2a3d4.jpg",
     "static/media/noEncontrado.png": "/static/media/noEncontrado.84726b640d40e0567973.png",
+    "static/media/banner-anime.png": "/static/media/banner-anime.e6885cb9c9deb738e75a.png",
     "static/media/enojo-anime.ico": "/static/media/enojo-anime.7f0d6799385c01e30394.ico",
     "static/media/Overlord-Volumen-1.jpg": "/static/media/Overlord-Volumen-1.a1d63dd1cec9f01d73e5.jpg",
     "static/media/Overlord2.jpg": "/static/media/Overlord2.0516c8569eb6d6dff570.jpg",
     "static/media/Overlord1.jpg": "/static/media/Overlord1.5296a48661a12400ddf0.jpg",
     "index.html": "/index.html",
-    "main.94a19e5a.css.map": "/static/css/main.94a19e5a.css.map",
-    "main.6cef3c47.js.map": "/static/js/main.6cef3c47.js.map"
+    "main.04a81f7e.css.map": "/static/css/main.04a81f7e.css.map",
+    "main.953373b6.js.map": "/static/js/main.953373b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.94a19e5a.css",
-    "static/js/main.6cef3c47.js"
+    "static/css/main.04a81f7e.css",
+    "static/js/main.953373b6.js"
   ]
 }
