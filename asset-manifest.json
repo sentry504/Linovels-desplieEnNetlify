@@ -1,24 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.04a81f7e.css",
-    "main.js": "/static/js/main.953373b6.js",
+    "main.css": "/static/css/main.2a28359a.css",
+    "main.js": "/static/js/main.b9a124e7.js",
+    "static/media/Overlord-Volumen-9.pdf": "/static/media/Overlord-Volumen-9.731233cbb7c39a11b0bc.pdf",
+    "static/media/Overlord-Volumen-11.pdf": "/static/media/Overlord-Volumen-11.1a12c4bff92aa7a08d91.pdf",
+    "static/media/cuentos-infantiles.pdf": "/static/media/cuentos-infantiles.ceb74068bbc5987c97e2.pdf",
+    "static/media/Overlord-Volumen-5.pdf": "/static/media/Overlord-Volumen-5.78183e91937466a12eba.pdf",
+    "static/media/Overlord-Volumen-14.pdf": "/static/media/Overlord-Volumen-14.e6109ae9ce3bb74ffbdd.pdf",
+    "static/media/Overlord-Volumen-4.pdf": "/static/media/Overlord-Volumen-4.4891356fa9f0910d46b1.pdf",
+    "static/media/Overlord-Volumen-3.pdf": "/static/media/Overlord-Volumen-3.c8e440dd3d6fb5b8068e.pdf",
     "static/media/Overlord-Volumen-2.pdf": "/static/media/Overlord-Volumen-2.595760412d6ff5869f93.pdf",
+    "static/media/Overlord-Volumen-13.pdf": "/static/media/Overlord-Volumen-13.cea3586f395b4841aa54.pdf",
     "static/media/Overlord-Volumen-1.pdf": "/static/media/Overlord-Volumen-1.9e6791d3d09a73af7634.pdf",
+    "static/media/Overlord-Volumen-10.pdf": "/static/media/Overlord-Volumen-10.48104bbf8c86d924bc3f.pdf",
+    "static/media/Overlord-Volumen-16.pdf": "/static/media/Overlord-Volumen-16.7cce6f7f98f632ba20a0.pdf",
+    "static/media/Overlord-Volumen-8.pdf": "/static/media/Overlord-Volumen-8.bf5b320cbcb6f6e01092.pdf",
+    "static/media/Overlord-Volumen-15.pdf": "/static/media/Overlord-Volumen-15.e6cd7d5a4256f747a955.pdf",
+    "static/media/Overlord-Volumen-6.pdf": "/static/media/Overlord-Volumen-6.c4424ea0e81d9261d1c2.pdf",
+    "static/media/Overlord-Volumen-12.pdf": "/static/media/Overlord-Volumen-12.7e61f72c343cc6d2e7e4.pdf",
+    "static/media/cuentos-infantiles.png": "/static/media/cuentos-infantiles.dae154e8df6234075e21.png",
+    "static/media/Overlord-Volumen-7.pdf": "/static/media/Overlord-Volumen-7.5f31ab44ab3e1ed5ecfc.pdf",
     "static/media/banner-cuentos.png": "/static/media/banner-cuentos.2e3424af8bfbfb0bcf89.png",
     "static/media/artistico-1.png": "/static/media/artistico-1.02a1d06620c86992d119.png",
     "static/media/banner-light-novels.jpg": "/static/media/banner-light-novels.4a5ead6dc57030a2a3d4.jpg",
     "static/media/noEncontrado.png": "/static/media/noEncontrado.84726b640d40e0567973.png",
     "static/media/banner-anime.png": "/static/media/banner-anime.e6885cb9c9deb738e75a.png",
+    "static/media/Fullmetal-Alchemist-Brotherhood.jpg": "/static/media/Fullmetal-Alchemist-Brotherhood.a051e42d2be5336c9415.jpg",
+    "static/media/Tensei-shittara-slime-datta-ken.jpg": "/static/media/Tensei-shittara-slime-datta-ken.dabb012178dc99b242ee.jpg",
     "static/media/enojo-anime.ico": "/static/media/enojo-anime.7f0d6799385c01e30394.ico",
     "static/media/Overlord-Volumen-1.jpg": "/static/media/Overlord-Volumen-1.a1d63dd1cec9f01d73e5.jpg",
     "static/media/Overlord2.jpg": "/static/media/Overlord2.0516c8569eb6d6dff570.jpg",
     "static/media/Overlord1.jpg": "/static/media/Overlord1.5296a48661a12400ddf0.jpg",
     "index.html": "/index.html",
-    "main.04a81f7e.css.map": "/static/css/main.04a81f7e.css.map",
-    "main.953373b6.js.map": "/static/js/main.953373b6.js.map"
+    "main.2a28359a.css.map": "/static/css/main.2a28359a.css.map",
+    "main.b9a124e7.js.map": "/static/js/main.b9a124e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.04a81f7e.css",
-    "static/js/main.953373b6.js"
+    "static/css/main.2a28359a.css",
+    "static/js/main.b9a124e7.js"
   ]
 }
